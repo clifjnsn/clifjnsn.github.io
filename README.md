@@ -4,4 +4,5 @@ There is information here to help you protect yourself, your family, and your ri
 
 # The #1 Defense is Education
 Online Liberty Protection Tools.pdf - Online resources which respect/protect your privacy
+
 U.S. Constitution (including Amendments) - Read/Understand what it really says
