@@ -11,6 +11,7 @@ Areas to explore/examine:
 * tracking/control
 
 Solutions:
+* Crypto Party (https://www.cryptoparty.in/)
 * Leaving social media platforms where you are tracked
 * Actually reading the End-User-Agreements (EULA)
 * Encryption
