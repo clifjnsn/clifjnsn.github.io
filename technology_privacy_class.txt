@@ -18,6 +18,7 @@ Solutions:
 * VPN
 * Products: DuckDuckGo, Protonmail, ProtonVPN, gab.com, Browser options
             Signal vs SMS, Backups, Operating Systems, DNS
+* Decentralized Internet.  An internet not owned by corporations, but it's users
 
 You are being tracked, you just don't realize it right now, but if you speak out against anything, you will regret allowing yourself to be
 tracked.
