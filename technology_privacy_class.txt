@@ -9,6 +9,7 @@ Areas to explore/examine:
 * free is never free (you are the product)
 * censorship is at an all time high
 * tracking/control
+* Incognito doesn't block/hide anything (except on your own computer - be even then, not really)
 
 Solutions:
 * Crypto Party (https://www.cryptoparty.in/)
