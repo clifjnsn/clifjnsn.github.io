@@ -22,3 +22,10 @@ You are being tracked, you just don't realize it right now, but if you speak out
 tracked.
 
 Article regarding Wiki co-founder
+
+Password managers / preventing hacking
+  - https://protonmail.com/blog/open-source-password-managers/
+
+
+
+Phishing (what to look for) - show example of Amazon order, and explain how to tell when it is phishing
