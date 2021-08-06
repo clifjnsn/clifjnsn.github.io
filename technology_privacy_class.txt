@@ -29,3 +29,9 @@ Password managers / preventing hacking
 
 
 Phishing (what to look for) - show example of Amazon order, and explain how to tell when it is phishing
+
+Focus a bunch on phones, as they leak a lot of information.
+ * GPS location
+ * Tracking you 24x7
+ * Installation of "free" games and vendor apps (remember, nothing is free) 
+ * Malware - Need for Anti-virus?
