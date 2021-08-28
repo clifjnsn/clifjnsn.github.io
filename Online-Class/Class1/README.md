@@ -35,3 +35,5 @@ Like the Firewall / Modem above, you don't have too much control over this one e
 - OS/X (<A href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/">Detailed Instructions</A>)
 
 Over the next several classes, we will examine the other items which you can/should do to protect your Personal Computer.
+
+Until next time: <A HREF="Further_reading.md">Further Reading</A>
