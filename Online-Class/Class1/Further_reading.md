@@ -7,4 +7,3 @@ For more information about the PRISM program:
 Another DNS option (not as user friendly), and focused more on avoiding censorship:
 <A HREF="https://opennic.org">OpenNIC.org</A>
 
-
