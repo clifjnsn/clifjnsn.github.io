@@ -19,8 +19,4 @@ Whether your home computer is a Desktop, or a Laptop, and whether your operating
 - Protect your personal data (browsing history, perferences, likes/dislikes) by using the correct browser and search engine
 - Be careful and wise about the links you click on (especially ones in your email)
 
-![image](/Basic-Home-Network.jpg)
-
-<img src="Basic-Home-Network.jpg">
-
-<img src="https://github.com/clifjnsn/liberty/blob/main/Online-Class/Class1/Basic-Home-Network.jpg">
+<img src="https://github.com/clifjnsn/liberty/blob/main/Online-Class/Class1/Basic-Home-Network.jpg" style="width:450px;height:308px">
