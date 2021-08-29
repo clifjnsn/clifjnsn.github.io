@@ -24,7 +24,7 @@ Solutions:
 You are being tracked, you just don't realize it right now, but if you speak out against anything, you will regret allowing yourself to be
 tracked.
 
-Article regarding Wiki co-founder
+Article regarding Wiki co-founder: https://unherd.com/thepost/wikipedia-co-founder-i-no-longer-trust-the-website-i-created/
 
 Password managers / preventing hacking
   - https://protonmail.com/blog/open-source-password-managers/
