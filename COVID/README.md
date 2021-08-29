@@ -9,3 +9,5 @@ NOTE: I had many, many other booksmarks, and saved links to articles, written by
 the one thing I've learned this year is that the internet is too easily controlled, edited, and deleted.  I've started
 now, saving PDF versions of articles and copies of files/articles to my computer in order to have a copy to share and
 refer to.
+
+COVID-19 Vaccine Risks Billboards popping up with links to : https://patienttoolbox.cchfreedom.org/pmh.php/41
