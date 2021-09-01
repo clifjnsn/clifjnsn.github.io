@@ -1,7 +1,7 @@
 # DNS (Domain Name Services)
 DNS is the service which takes the human readable website/server URL's and translates them into the the numeric addresses which computers understand.
 
-For example, this class is hosted on https://github.com, which is the same as 140.82.113.3 (IP address).
+For example, this class is hosted on [GitHub](https://github.com), which is the same as 140.82.113.3 (IP address).
 
 When you type github.com into your browser, or click on a link to this class from your email, a DNS server looks up the computer address (IP Address), and provides it back to your computer, then your browser contacts the server at the IP address, and requests to have the information it is storing, and your browser displays it for you.
 
