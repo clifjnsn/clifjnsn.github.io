@@ -21,7 +21,7 @@ Whether your home computer is a Desktop, or a Laptop, and whether your operating
 - Choosing strong passwords (unique to each website), and enabling 2-Factor Authentication (2FA) whenever a site supports that
 - Backups of important data (preferably stored in a fireproof box, or a location other than where the original data is located)
 
-![home_network](/liberty/Online-Class/Class1/Basic-Home-Network.jpg)
+![home_network](Online-Class/Class1/Basic-Home-Network.jpg)
 
 # Firewall / Modem
 This is your first line of defense.  In order to keep the direct attacks from the internet outside of your house, this is your first line of defense.  Often, there isn't anything you can do here, as this hardware is owned by your internet service provider.  They rent it to you, and are responsible for configuring it, and keeping the settings/software updated.  You should contact your internet service provider to find out what their policies/procedures are regarding security updates, and how they are protecting you.
