@@ -9,8 +9,8 @@ What would happen if this database which hold the list of translations from huma
 
 There are several DNS services that provide very good DNS lookup databases, and even provide some corrections for your miss-typed words, and a list of "bad" websites which can be blocked for you, so that you are not exposed to the malware, pornography, or potentially have your account/password stolen.
 
-The company that I feel provides the best set of services, and does this for free for families, is OpenDNS (<a href="https://opendns.com">OpenDNS</a>). 
+The company that I feel provides the best set of services, and does this for free for families, is [OpenDNS](https://opendns.com) .
 
 Their "Family Shield" product doesn't require an account, you simply update the DNS settings on your devices and/or modem/router, and you get the benefit of this safer database
 
-For detailed instructions on how to do this, visit the <A href="https://www.opendns.com/setupguide/#familyshield">FamilyShield</A> Website.
+For detailed instructions on how to do this, visit the [FamilyShield](https://www.opendns.com/setupguide/#familyshield) Website.
