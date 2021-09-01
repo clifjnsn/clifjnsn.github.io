@@ -1,4 +1,4 @@
-#Online Privacy/Security for the Modern Patriot
+# Online Privacy/Security for the Modern Patriot
 
 ## History / Introduction
 Today, we find ourselves in a war - a war for freedom, not much different than the fight for freedom during the foundation of this great nation in 1776.  During that great war, there were spies (on both sides) and the plans, secrets, and communications between the leaders/generals, and the front lines, was as critical as the men, black powder, and rations.  If these communications were intercepted, battles could be lost, as well as lives.  It wasn't very well known, but George Washington had one of his men create a "secret code", called the Culper Code Book, to allow messages to be encoded, and deciphered in the field (see: <a href="https://www.mountvernon.org/george-washington/the-revolutionary-war/spying-and-espionage/the-culper-code-book">The Culper Code Book</A>).
