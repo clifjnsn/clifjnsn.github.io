@@ -31,8 +31,8 @@ If you do have access to make configuration changes, another item that you can d
 ## Keeping Your Operating System Current
 Like the Firewall / Modem above, you don't have too much control over this one either, except to make certain it is enabled:
 
-- Windows 10 ( ![Detailed Instructions](https://www.tech-recipes.com/rx/69127/how-to-turn-on-and-off-automatic-updates-in-windows-10">Detailed Instructions
-- OS/X ( ![Detailed Instructions](https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software) )
+- Windows 10 ( [Detailed Instructions](https://www.tech-recipes.com/rx/69127/how-to-turn-on-and-off-automatic-updates-in-windows-10) )
+- OS/X ( [Detailed Instructions](https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software) )
 
 Over the next several classes, we will examine the other items which you can/should do to protect your Personal Computer.
 
