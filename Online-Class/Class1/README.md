@@ -1,4 +1,4 @@
-<h1 align="center"> Protecting Your Personal Computer </h>
+<h1 align="center"> Protecting Your Personal Computer </h1>
 
 # More Than Install an Anti-Virus Application
 I am starting out with information about protecting your Personal Computer, not because it is what you might use the most often, but because the concepts for protecting this computer will be much simpler than the concepts for protecting your Smart Phone - but we will get there in future classes.
