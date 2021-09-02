@@ -6,4 +6,6 @@ I am starting out with information about protecting your Personal Computer, not 
 ### Why it Matters?
 
 <<--[Previous Class](../Class1/README.md)  [Next Class](../Class3/README.md)-->
-Until next time: [Further_Reading](Further_reading.md)
+
+Additional Reading:
+[Further_Reading](Further_reading.md)
