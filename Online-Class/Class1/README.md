@@ -36,4 +36,7 @@ Like the Firewall / Modem above, you don't have too much control over this one e
 
 Over the next several classes, we will examine the other items which you can/should do to protect your Personal Computer.
 
-Until next time: [Further_Reading](Further_reading.md)
+<--[Introduction](../README.md)  [Next Class](../Class2/README.md)
+
+Additional Reading:
+[Further_Reading](Further_reading.md)
