@@ -12,5 +12,5 @@ More information about how Authenticator Applications (OTP) work: [OTP](https://
 
 Authenticator Applications:
  - Google Authenticator (Available for Android and iPhone).  Accounts can be transferred from one working phone to another, but they are not backed up, so if your phone is lost or dies, they are lost
- - LastPass Authenticator (Available for Android and iPhone).  If you have a Lastpass account, your accounts are encrypted and stored in your LastPass vault.
+ - LastPass Authenticator (Available for Android and iPhone).  If you have a Lastpass account, your accounts are encrypted and stored in your [LastPass](https://lastpass.com) vault.
  - BitWarden Authenticator (Available for Android and iPhone, as well as a plugin for your browser).  Requires a paid account with [BitWarden.com](https://bitwarden.com/pricing)
