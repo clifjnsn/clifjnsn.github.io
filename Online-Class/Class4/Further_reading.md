@@ -1,7 +1,7 @@
 
 # Further Reading
 
-Read more about Laspass: [Lastpass overview](https://lastpasscom/how-lastpass-works)
+Read more about Laspass: [Lastpass overview](https://lastpass.com/how-lastpass-works)
 
 LastPass also provides How-To Videos: [YouTube LastPass Channel](https://www.youtube.com/watch?v=-y5hyO7emng&list=PLsXN_jRonzydnbXDezeFF9iS7VYHfUNT6)
 
