@@ -1,6 +1,8 @@
 # Online Privacy/Security for the Modern Patriot
 
 ### History / Introduction
+![Gadsden Flag](us-gadsden-flag.jpg)
+
 Today, we find ourselves in a war - a war for freedom, not much different than the fight for freedom during the foundation of this great nation in 1776.  During that great war, there were spies (on both sides) and the plans, secrets, and communications between the leaders/generals, and the front lines, was as critical as the men, black powder, and rations.  If these communications were intercepted, battles could be lost, as well as lives.  It wasn't very well known, but George Washington had one of his men create a "secret code", called the Culper Code Book, to allow messages to be encoded, and deciphered in the field (see: <a href="https://www.mountvernon.org/george-washington/the-revolutionary-war/spying-and-espionage/the-culper-code-book">The Culper Code Book</A>).
 
 Fast forward more than 200 years of technological advances, and we now have computers in our pockets which are more powerful than the ones used to put a man on the moon, and communications which are connected to more people than most people even knew in their entire lifetime during the Revolutionary War.  The worst part, these convenient devices can also inform others (including people not in your communications circle) of your exact location, your likes/dislikes, who all your friends are, where you are (and for how long), and who you are with at the time.  And this is happening to every person in America who relies on this invention called the Smart Phone. 
