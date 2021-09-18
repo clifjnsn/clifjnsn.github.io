@@ -1,4 +1,5 @@
 # Liberty in the United States is Under Attack
+![gadsden-flag](us-gadsden-flag.jpg)
 Both online, and in every area of our lives.
 There is information here to help you protect yourself, your family, and your rights.
 
