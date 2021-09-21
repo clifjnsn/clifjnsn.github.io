@@ -14,7 +14,7 @@ Areas to explore/examine:
 Solutions:
 * Crypto Party (https://www.cryptoparty.in/)
 * Leaving social media platforms where you are tracked
-* Actually reading the End-User-Agreements (EULA)
+* Actually reading the End-User-Agreements (EULA) - https://tosdr.org/
 * Encryption
 * VPN
 * Products: DuckDuckGo, Protonmail, ProtonVPN, gab.com, Browser options
