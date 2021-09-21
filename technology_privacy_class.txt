@@ -42,3 +42,38 @@ Focus a bunch on phones, as they leak a lot of information.
 To Watch:
 https://protonmail.com/blog/disappear-film-marc-meillassoux-interview/
 Enemy of the State
+
+* Social Media (not just FB)
+  - Facial recognition
+* EULA (Include link to site to look up) - https://tosdr.org/
+* Cell Phones
+  - GPS Tracker
+  - WiFi Tracker
+  - Apps and activity (data sold)
+  - IMEI (phone company data sold)
+  - Disable "Hey Google" and "Hey Siri"
+  - Attending rallies or events (leave phone at home)
+* Smart Home
+  - Google Nest
+  - Ring
+  - Alexa
+* RFID
+  - Passports
+  - New Debit/Credit cards
+
+
+
+Class Links:
+Introduction
+Week 1 - Protecting Your Personal Computer (part 1) - DONE
+Week 2 - Protecting Your Personal Computer (part 2) - DONE
+Week 3 - Securing E-Mail Communication - DONE
+Week 4 - Passwords and Password Managers - DONE
+Week 5 - Backups - DONE
+Week 6 - Social Media
+Week 7 - Public WiFi - DONE
+Week 8 - Cell Phones/Smart Phones
+Week 9 - Surveillance
+Week 10 - VPN
+Week 11 - Biometrics
+Week 12 - Dark Web / Tor
