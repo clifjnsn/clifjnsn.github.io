@@ -45,6 +45,8 @@ Enemy of the State
 
 * Social Media (not just FB)
   - Facial recognition
+  - The EULA (They own your data and pictures)
+
 * EULA (Include link to site to look up) - https://tosdr.org/
 * Cell Phones
   - GPS Tracker
