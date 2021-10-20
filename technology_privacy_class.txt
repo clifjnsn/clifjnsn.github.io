@@ -42,16 +42,21 @@ Focus a bunch on phones, as they leak a lot of information.
 To Watch:
 https://protonmail.com/blog/disappear-film-marc-meillassoux-interview/
 Enemy of the State
+Person of Interest
 
 * Social Media (not just FB)
-  - Facial recognition
+  - Facial recognition (https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/)
   - The EULA (They own your data and pictures)
+  - Leaving: https://www.cnet.com/tech/services-and-software/deactivating-facebook-isnt-enough-heres-how-to-permanently-delete-your-account/
 
 * EULA (Include link to site to look up) - https://tosdr.org/
 * Cell Phones
   - GPS Tracker
+    - https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google
   - WiFi Tracker
+  - Apps: Permissions, tracking, Malware
   - Apps and activity (data sold)
+    - Removing Apps (https://www.rd.com/article/never-delete-an-app-without-doing-these-things-first/)
   - IMEI (phone company data sold)
   - Disable "Hey Google" and "Hey Siri"
   - Attending rallies or events (leave phone at home)
@@ -62,7 +67,7 @@ Enemy of the State
 * RFID
   - Passports
   - New Debit/Credit cards
-
+* Thumbdrives - dangers, finding "lost" drives
 
 
 Class Links:
@@ -79,3 +84,26 @@ Week 9 - Surveillance
 Week 10 - VPN
 Week 11 - Biometrics
 Week 12 - Dark Web / Tor
+
+
+
+Privacy:
+Windows 10 - https://www.startpage.com/privacy-please/privacy-guides/how-to-update-your-windows-microsoft-settings-for-privacy
+iPhone - https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-iphone-for-privacy
+Android - https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-android-for-privacy
+Mac - https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-mac-for-privacy
+
+Introduction:
+
+Warrants to Google to discover user's search history:
+https://www.thegatewaypundit.com/2021/10/begins-federal-investigators-issuing-warrants-google-turn-anyone-typing-certain-search-terms/?utm_source=Gab&utm_campaign=websitesharingbuttons
+
+Story of Cell Phone data w/o warrants
+
+
+Another great backup option is BackBlaze.  They offer backup software for Windows and Mac, encryption options, and unlimited storage for $7/month per device. (https://www.backblaze.com/cloud-backup.html)
+ - add this to additional resources on the class regarding backups
+
+Cell Phone, FBI fake towers: https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies
+
+Turn off Geo Tagging (iphone): https://www.techbout.com/turn-off-geotagging-for-photos-iphone-ipad-8738/
