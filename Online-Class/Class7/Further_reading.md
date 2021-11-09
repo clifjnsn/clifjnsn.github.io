@@ -3,7 +3,9 @@
 
 ### Secure your phone, and increase privacy:
 iPhone - [Article](https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-iphone-for-privacy)
+
 Android - [Article](https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-android-for-privacy)
+
 Turn off Picture Geo Location Tagging on iPhone - [Article](https://www.techbout.com/turn-off-geotagging-for-photos-iphone-ipad-8738/)
 
 ### Becoming a suspect because of your location
