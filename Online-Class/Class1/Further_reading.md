@@ -5,7 +5,7 @@ For more information about the PRISM program: [PRISM](https://en.wikipedia.org/w
 
 Another DNS option (not as user friendly), and focused more on avoiding censorship: [OpenNIC.org](https://openni.org)
 
-Improve the Privacy of your computer:
+### Improve the Privacy of your computer:
 
 Windows 10 - [Article](https://spreadprivacy.com/mac-privacy-tips)
 
