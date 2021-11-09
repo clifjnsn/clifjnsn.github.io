@@ -2,17 +2,19 @@
 # Further Reading
 
 ### Secure your phone, and increase privacy:
-iPhone - [Article](https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-iphone-for-privacy)
+iPhone - [Article](https://spreadprivacy.com/iphone-privacy-tips/)
 
-Android - [Article](https://www.startpage.com/privacy-please/privacy-guides/how-to-set-up-your-android-for-privacy)
+Android - [Article](https://spreadprivacy.com/android-privacy-tips/)
 
 Turn off Picture Geo Location Tagging on iPhone - [Article](https://www.techbout.com/turn-off-geotagging-for-photos-iphone-ipad-8738/)
+
+DuckDuckGo Web Browser (most private browser for phone)!
 
 ### Becoming a suspect because of your location
 [Article](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
 
 ### FBI using fake cell towers
-[Article](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skie)
+[Article](https://www.vice.com/en/article/jp5azg/fbi-admits-it-uses-fake-cell-phone-towers-to-track-you)
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
