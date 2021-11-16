@@ -29,10 +29,6 @@ Article regarding Wiki co-founder: https://unherd.com/thepost/wikipedia-co-found
 Password managers / preventing hacking
   - https://protonmail.com/blog/open-source-password-managers/
 
-
-
-Phishing (what to look for) - show example of Amazon order, and explain how to tell when it is phishing
-
 Focus a bunch on phones, as they leak a lot of information.
  * GPS location
  * Tracking you 24x7
@@ -77,8 +73,8 @@ Week 2 - Protecting Your Personal Computer (part 2) - DONE
 Week 3 - Securing E-Mail Communication - DONE
 Week 4 - Passwords and Password Managers - DONE
 Week 5 - Backups - DONE
-Week 6 - Social Media
-Week 7 - Public WiFi - DONE
+Week 6 - Public WiFi - DONE
+Week 7 - Social Media
 Week 8 - Cell Phones/Smart Phones
 Week 9 - Surveillance
 Week 10 - VPN
@@ -97,6 +93,7 @@ Introduction:
 
 Warrants to Google to discover user's search history:
 https://www.thegatewaypundit.com/2021/10/begins-federal-investigators-issuing-warrants-google-turn-anyone-typing-certain-search-terms/?utm_source=Gab&utm_campaign=websitesharingbuttons
+https://www.forbes.com/sites/thomasbrewster/2021/10/04/google-keyword-warrants-give-us-government-data-on-search-users/?sh=7feef6c7c971
 
 Story of Cell Phone data w/o warrants
 
