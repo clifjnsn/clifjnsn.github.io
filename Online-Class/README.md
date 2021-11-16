@@ -23,4 +23,7 @@ I am an IT Professional, with over 30 years of experience, plus a passion for te
 ### Layout of the class
 All of the information for this class will be placed into directories in this Github repository/website, and I will be sending out an email each week - as each new class is released.  The previous classes will remain online on this website, as will any resources/documents.  If you need to go back and review something from a previous week, it will still be here, waiting for you.  If you get really excited about the content from a certain week, and want to forward the email from that week onto a friend, feel free (there is no need for someone to have to subscribe in order to have access to this material).
 
+### Table of Contents
+If you have already read through each Class, or need to return to a particular page, I have provided a ["Table of Contents"](toc.md)
+
 [Begin](Class1/README.md) -->>
