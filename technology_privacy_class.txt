@@ -68,18 +68,16 @@ Person of Interest
 
 Class Links:
 Introduction
-Week 1 - Protecting Your Personal Computer (part 1) - DONE
-Week 2 - Protecting Your Personal Computer (part 2) - DONE
-Week 3 - Securing E-Mail Communication - DONE
-Week 4 - Passwords and Password Managers - DONE
-Week 5 - Backups - DONE
-Week 6 - Public WiFi - DONE
-Week 7 - Social Media
-Week 8 - Cell Phones/Smart Phones
-Week 9 - Surveillance
-Week 10 - VPN
-Week 11 - Biometrics
-Week 12 - Dark Web / Tor
+Week 1 - Protecting Your Personal Computer (part 1) Firewall
+Week 2 - Protecting Your Personal Computer (part 2) Browsers
+Week 3 - Securing E-Mail Communication
+Week 4 - Passwords and Password Managers
+Week 5 - Backups
+Week 6 - Public WiFi
+Week 7 - Cell Phones/Smart Phones
+Week 8 - Social Media (Facebook
+Week 9 - VPN
+Week 10 - Biometrics
 
 
 
