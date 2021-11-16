@@ -15,6 +15,7 @@ DuckDuckGo Web Browser (most private browser for phone)!
 
 ### FBI using fake cell towers
 [Article](https://www.vice.com/en/article/jp5azg/fbi-admits-it-uses-fake-cell-phone-towers-to-track-you)
+[Additional info about FBI Tracking Cell Phones](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>

@@ -5,6 +5,8 @@ When cell phones were first created, they were touted as the perfect tool for em
 
 Today's modern Smart Phone looks nothing like the first several generations of cell phones.  Now, they are mini-computers, with touch screens, and more electronic gadgets than anyone could've ever imagined.  Oh the convenience of having a GPS, a digital camera, a health tracker, and the whole internet with you at all times!  You can remain in constant contact with your friends, family, and work.  You can know the news and weather for any area you are currently in (or simply curious about).  You can never really *get away* from it all - and that's even more true than you might realize.
 
+![phone_slave](ba7bc6fe1be9b81f.jpg)
+
 ### Cell Towers
 There are cell towers nearly everywhere now.  When you have your cell phone with you, it is in constant communication with these towers (multiple at a time).  Your phone has a unique (IMEI) ID number, so that, if a phone call, or message arrives for you, the cell phone company knows which tower you are connected to, and directs that message, or call, to your phone.  Without your phone checking in with the closest tower/towers as you move around, or drive down the road, the cell phone company would have to send every single call, to every single tower, in order to find the one which it was intended for (a big waste of resources).
 
