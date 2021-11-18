@@ -16,7 +16,7 @@ Or, "I don't need to worry about Freedom - I wasn't using it anyway".  Just beca
 
 For me, the events of January 6th, COVID-19, and frequent reports of <A HREF="https://tv.gab.com/channel/officialamericafirst/view/the-total-end-of-a-free-6113d9951cff062f95f3d9e9">censorship</A> in this country, ultimately have prompted me to put together this class.
 
-*Added 11/18/2021:  This type of "pre-crime" surveilance is the kind of non-sense that will increase, and we should do whatever we can to avoid showing up on their radar: ![Article](https://reclaimthenet.org/lapd-used-data-from-tool-that-enables-secret-online-spying/)
+*Added 11/18/2021:  This type of "pre-crime" surveilance is the kind of non-sense that will increase, and we should do whatever we can to avoid showing up on their radar: [Article](https://reclaimthenet.org/lapd-used-data-from-tool-that-enables-secret-online-spying/)
 
 ### About Your Instructor
 I am an IT Professional, with over 30 years of experience, plus a passion for technology and security that began when I was 12, and continues until this day.  I have experience with many operating systems, programming languages, and outside of work, spend many hours on personal technical projects, and reading articles about privacy, encryption, hacking, and Edward Snowden's book "Permanent Record".  Some could call me paranoid and a conspiracy theorist, but it has been my experience, that many of these "conspiracies" have a kernel of truth, and it is always a good idea to do whatever you can to protect yourself, and your information.  As you approach this class, ask yourself where you are comfortable making changes about the way you approach technology, and what you post.
