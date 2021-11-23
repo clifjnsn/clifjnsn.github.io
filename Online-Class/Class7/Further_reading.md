@@ -2,13 +2,13 @@
 # Further Reading
 
 ### Secure your phone, and increase privacy:
-iPhone - [Article](https://spreadprivacy.com/iphone-privacy-tips/)
+iPhone - [Article](https://spreadprivacy.com/iphone-privacy-tips)
 
-Android - [Article](https://spreadprivacy.com/android-privacy-tips/)
+Android - [Article](https://spreadprivacy.com/android-privacy-tips)
 
-Turn off Picture Geo Location Tagging on iPhone - [Article](https://www.techbout.com/turn-off-geotagging-for-photos-iphone-ipad-8738/)
+Turn off Picture Geo Location Tagging on iPhone - [Article](https://www.techbout.com/turn-off-geotagging-for-photos-iphone-ipad-8738)
 
-DuckDuckGo Web Browser (most private browser for phone)!
+[DuckDuckGo Web Browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) (most private browser for phone)!  UPDATE (11/23/2021): DuckDuckGo Web Browser or Android now blocking most tracking - [Article](https://spreadprivacy.com/introducing-app-tracking-protection)
 
 ### Becoming a suspect because of your location
 [Article](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
