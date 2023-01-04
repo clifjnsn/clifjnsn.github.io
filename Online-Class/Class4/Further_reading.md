@@ -10,3 +10,6 @@ Article: [Why you should never allow your web browser to save your passwords](ht
 If you have been using the internet for several years, you may have created accounts on websites that you no longer use, or even remember using.  Those sites may still have your account/data, and if they were ever hacked, you may not know about it.  Firefox Monitor is a service by Mozilla/Firefox, which can search known data breaches to see if your email address shows up on one of those data breaches, and, can monitor for future breaches on your behalf:  [Firefox Monitor](https://monitor.firefox.com/).
 
 If you use Firefox Monitor, you may want to delete any accounts you no longer want/need that is returned by their search/monitoring.
+
+Alas, nothing is perfect, and LastPass has been breached a couple of times recently [Article](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident).  
+  There have been no reports of any passwords being accessed from the users encrypted vault, but this is a possibility (albeit a remote one)
