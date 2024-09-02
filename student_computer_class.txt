@@ -1,0 +1,60 @@
+Creating for Leon and his kids, but applicable for all young kids and homeschooling
+
+Intro for Parents
+  - Include Internet safety
+    - WiFi router setup
+    - Brave browser
+    - Avoiding Google searches, Facebook
+    - Screen Time and Brain Development
+
+History
+ - size of first computers
+ - People create to mimick what God created
+   * birds -> planes
+   * submarines -> whales
+   * atoms and electrons -> electricity
+ - Computing power of a cell phone today is more than NASA had to put a man on the moon in 1969
+
+Defining parts
+ - CPU
+ - Memory
+ - Storage
+   - organization (directories and files)
+ - Input/Output
+   - keyboard
+     - building typing skills through games
+   - touch screen
+   - mouse
+   - printer
+
+Computers differ from Brains, in that they don't learn (in the true sense), they can only do
+ what they are told (show sample code)
+Even robots and Artificial Intelligence (AI) have limits to their "learning"
+
+Operating Systems
+ - Windows Basics
+ - Most everything is/has a computer
+   - cars
+   - tv's
+   - phones
+
+Networks
+ - WifI
+ - Internet
+   - Searching for things on iternet
+   - Understanding/Using a browser
+   - email
+
+Software (Installed, or online)
+ - Wordprocessing
+ - Math (Calculator to Excel)
+ - Data storage / Database
+
+Coding
+ - Getting started
+
+Resources:
+https://www.abcmouse.com - free for 30 days ($13/month after)
+https://online.maryville.edu/online-bachelors-degrees/management-information-systems/computer-skills-kids/
+https://codinghero.ai/8-basic-computer-skills-for-kids-to-master/
+
