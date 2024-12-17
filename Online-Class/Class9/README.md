@@ -11,4 +11,9 @@ Another disadvantage is that the act of encrypting your data requires increased 
 ## Suggested VPN Provider
 Here is an [Article](https://proprivacy.com/vpn/comparison/best-no-logs-vpns) which makes some recommendations for "no log" VPN providers.  My suggestion is for [ProtonVPN](https://protonvpn.com/secure-vpn/) (the same group which provides the secure/encrypted e-mail service: Protonmail - which I recommended).  There are 2 reasons I can recommend Protonmail/ProtonVPN:  1.  They are located in Switzerland (which has better privacy laws), and 2.  They have been subpoenaed and have refused to release the information.  WARNING:  Their email servers to do log the IP addresses which access them, and they are required by law to provide that information when subpoenaed, so their recommendation is that you use their VPN service to insure anonymity.
 
+## Another option for protection
+When interacting with the Internet, there are so many ways in which you can get tricked into viewing something, or clicking on something, that you shouldn't, and so many reccommendations in this class which can be overwhelming.  There is an option called a Zero-Trust Isolated Browser which allows you to utilize a web browser, running in the cloud.  This browser allows a window into the internet, without providing any access to your computer/phone.  If you click on a link for a virus, or malware, it cannot install onto your system, see your screen, or still your information; then, when you exit from the Isolated Browser session, anything which was downloaded to that session is completely deleted, and a new installation is performed over your old session.  So, it's like a new install each time.
+
+There are some inconveniences with this way of browsing the internet, but the protection is complete.  Try is here: [Kasmweb](https://kasmweb.com/browser-isolation).
+
 <<-- [Previous Class](../Class8/README.md) -- [Next Class](../Class10/README.md) -->>
