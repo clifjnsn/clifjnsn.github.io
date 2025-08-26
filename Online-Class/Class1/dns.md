@@ -9,8 +9,8 @@ What would happen if this database, which holds the list of translations from hu
 
 There are several DNS services that provide very good DNS lookup databases, and even provide some corrections for your miss-typed words, and a list of "bad" websites which can be blocked for you: so that you are not exposed to the malware, pornography, or potentially have your account/password stolen.
 
-The company that I feel provides the best set of services, and does this for free for families, is [OpenDNS](https://opendns.com) .
+The company that I feel provides the best set of services is [NextDNS](https://nextdns.io) .
 
-Their "Family Shield" product doesn't require an account, you simply update the DNS settings on your devices and/or modem/router, and you get the benefit of this safer database.
+Their *FREE* option includes protection for up to 300,000 requests per month (sufficient for most homes), and does a great job at blocking Porn, Advertisements, Malware sites, and other bad actors online.  You can also block entire categories (social media, file sharing, etc.), or certain online applications (Roblox, Netflix, etc.).
 
-For detailed instructions on how to do this, visit the [FamilyShield](https://www.opendns.com/setupguide/#familyshield) Website.
+To remove the 300,000 requests per month limit, their Pro version is only $20/year.
